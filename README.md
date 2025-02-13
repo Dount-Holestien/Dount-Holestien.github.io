@@ -11,8 +11,4 @@ Changed header title to h1
 Changed main section headings (About, Portfolio, Contact) to h2
 Properly structured sub-headings
 These changes improved the accessibility and structure of your website while maintaining consistent styling throughout the sections.
-
-Assistant mode
-
-advanced
-Claude 3.5 Sonnet V2
+2/13/25
